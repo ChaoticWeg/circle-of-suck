@@ -1,0 +1,7 @@
+name: Test
+on: [push]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo Test triggered by ${{ github.event_name }}
