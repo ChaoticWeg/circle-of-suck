@@ -1,6 +1,6 @@
 # Circle of Suck
 
-## What is a circle of suck?
+### What is a circle of suck?
 
 I'm not a writer so I can't write a better description of a circle of suck than [this][1] by Ryan Nanni of [Banner Society][2]:
 
